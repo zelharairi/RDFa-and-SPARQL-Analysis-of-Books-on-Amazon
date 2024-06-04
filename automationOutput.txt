@@ -1,0 +1,552 @@
+<div vocab="https://schema.org/">
+<div typeof="Book" resource="1">
+		<h1><span property="name">Data Analysis Using R (Low Priced Edition): A Primer for Data Scientist</span></h1>
+	<div>Author: <span property="author"> Dr Dhaval Mahet</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1685549596</span></div>
+		<div>Publisher <span property="publisher">Notion Press Media Pvt Ltd </span></div>
+		<div>Date Published <span property="datePublished">November 22, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">500</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.4</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="2">
+		<h1><span property="name">Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-0596153939</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">August 18, 2009</span></div>
+		<div>Number of Pages <span property="numberOfPages">484</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.3</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="3">
+		<h1><span property="name">Guerrilla Data Analysis Using Microsoft Excel: Overcoming Crap Data and Excel Skirmishes</span></h1>
+	<div>Author: <span property="author"> Oz du Soleil,  and , Bill Jele</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1615470747</span></div>
+		<div>Publisher <span property="publisher">Holy Macro! Books</span></div>
+		<div>Date Published <span property="datePublished">August 1, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">274</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.7</span></div>
+		<div>Book Edition <span property="bookEdition"> Third edition </span></div>
+</div>
+<div typeof="Book" resource="4">
+		<h1><span property="name">Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</span></h1>
+	<div>Author: <span property="author"> William McKinne</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1491957660</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">November 14, 2017</span></div>
+		<div>Number of Pages <span property="numberOfPages">547</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="5">
+		<h1><span property="name">Excel Data Analysis For Dummies (For Dummies (Computer/Tech))</span></h1>
+	<div>Author: <span property="author"> Paul McFedrie</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1119844426</span></div>
+		<div>Publisher <span property="publisher">For Dummies</span></div>
+		<div>Date Published <span property="datePublished">February 3, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">368</span></div>
+		<div>Average rating on Amazon <span property="contentRating">3.9</span></div>
+		<div>Book Edition <span property="bookEdition"> 5th edition </span></div>
+</div>
+<div typeof="Book" resource="6">
+		<h1><span property="name">Everything Data Analytics: A Beginner's Guide to Data Literacy: Understanding the Processes That Turn Data Into Insights</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage"></span></div>
+		<div>ISBN <span property="isbn"></span></div>
+		<div>Publisher <span property="publisher"></span></div>
+		<div>Date Published <span property="datePublished"></span></div>
+		<div>Number of Pages <span property="numberOfPages"></span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.2</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="7">
+		<h1><span property="name">SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights</span></h1>
+	<div>Author: <span property="author"> Cathy Tanimur</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1492088783</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">October 5, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">360</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="8">
+		<h1><span property="name">Qualitative Data Analysis: A Methods Sourcebook</span></h1>
+	<div>Author: <span property="author"> Matthew B. Miles, A. Michael Huberman, et al</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">Research in Drama Education</span></div>
+		<div>Publisher <span property="publisher">SAGE Publications, Inc</span></div>
+		<div>Date Published <span property="datePublished">January 22, 2019</span></div>
+		<div>Number of Pages <span property="numberOfPages">408</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.7</span></div>
+		<div>Book Edition <span property="bookEdition"> 4th edition </span></div>
+</div>
+<div typeof="Book" resource="9">
+		<h1><span property="name">Topological Data Analysis with Applications</span></h1>
+	<div>Author: <span property="author"> Gunnar Carlsson,  and , Mikael Vejdemo-Johansso</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1108838658</span></div>
+		<div>Publisher <span property="publisher">Cambridge University Press</span></div>
+		<div>Date Published <span property="datePublished">March 24, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">230</span></div>
+		<div>Average rating on Amazon <span property="contentRating">5</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="10">
+		<h1><span property="name">R in Action, Third Edition: Data analysis and graphics with R and Tidyverse</span></h1>
+	<div>Author: <span property="author"> Robert I. Kabacof</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1617296055</span></div>
+		<div>Publisher <span property="publisher">Manning</span></div>
+		<div>Date Published <span property="datePublished">May 3, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">656</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.3</span></div>
+		<div>Book Edition <span property="bookEdition"> 3rd edition </span></div>
+</div>
+<div typeof="Book" resource="11">
+		<h1><span property="name">Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up (Chicago Guides to Writing, Editing, and Publishing)</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-0226806433</span></div>
+		<div>Publisher <span property="publisher">University of Chicago Press </span></div>
+		<div>Date Published <span property="datePublished">October 15, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">333</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.5</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="12">
+		<h1><span property="name">SQL for Data Analytics: Perform efficient and fast data analysis with the power of SQL</span></h1>
+	<div>Author: <span property="author"> Chad Knowle</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">979-8354008353</span></div>
+		<div>Publisher <span property="publisher">Independently published </span></div>
+		<div>Date Published <span property="datePublished">September 21, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">106</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.9</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="13">
+		<h1><span property="name">Python for Beginners: 2 Books in 1: The Perfect Beginner's Guide to Learning How to Program with Python with a Crash Course + Workbook</span></h1>
+	<div>Author: <span property="author"> Programming Languages Academy, Matthew Kinsey, et al</span></div>
+		<div>Language: <span property="inLanguage"></span></div>
+		<div>ISBN <span property="isbn"></span></div>
+		<div>Publisher <span property="publisher"></span></div>
+		<div>Date Published <span property="datePublished"></span></div>
+		<div>Number of Pages <span property="numberOfPages"></span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.4</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="14">
+		<h1><span property="name">Data Analytics, Data Visualization & Communicating Data: 3 books in 1: Learn the Processes of Data Analytics and Data Science, Create Engaging Data ... Present Data Effectively (All Things Data)</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"> </span></div>
+		<div>Publisher <span property="publisher">Kenneth M Fornari </span></div>
+		<div>Date Published <span property="datePublished">November 10, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">528</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="15">
+		<h1><span property="name">Getting Started with Natural Language Processing</span></h1>
+	<div>Author: <span property="author"> Ekaterina Kochma</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"> </span></div>
+		<div>Publisher <span property="publisher">Manning </span></div>
+		<div>Date Published <span property="datePublished">October 18, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">456</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="16">
+		<h1><span property="name">SQL QuickStart Guide: The Simplified Beginner's Guide to Managing, Analyzing, and Manipulating Data With SQL</span></h1>
+	<div>Author: <span property="author"> Walter Shield</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1945051753</span></div>
+		<div>Publisher <span property="publisher">ClydeBank Media LLC</span></div>
+		<div>Date Published <span property="datePublished">November 18, 2019</span></div>
+		<div>Number of Pages <span property="numberOfPages">249</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"> Illustrated edition </span></div>
+</div>
+<div typeof="Book" resource="17">
+		<h1><span property="name">Monty Python And The Holy Grail</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage"></span></div>
+		<div>ISBN <span property="isbn"></span></div>
+		<div>Publisher <span property="publisher"></span></div>
+		<div>Date Published <span property="datePublished"></span></div>
+		<div>Number of Pages <span property="numberOfPages"></span></div>
+		<div>Average rating on Amazon <span property="contentRating"></span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="18">
+		<h1><span property="name">Python in easy steps</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1840788129</span></div>
+		<div>Publisher <span property="publisher">In Easy Steps Limited</span></div>
+		<div>Date Published <span property="datePublished">August 28, 2018</span></div>
+		<div>Number of Pages <span property="numberOfPages">192</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="19">
+		<h1><span property="name">Python para Principiantes: 2 Libros en 1: Programación de Python para principiantes + Libro de trabajo de Python (Spanish Edition)</span></h1>
+	<div>Author: <span property="author"> Programming Languages Academ</span></div>
+		<div>Language: <span property="inLanguage">Spanish</span></div>
+		<div>ISBN <span property="isbn">979-8642649534</span></div>
+		<div>Publisher <span property="publisher">Independently published </span></div>
+		<div>Date Published <span property="datePublished">May 2, 2020</span></div>
+		<div>Number of Pages <span property="numberOfPages">234</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.4</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="20">
+		<h1><span property="name">Quantum Machine Learning and Optimisation in Finance: On the Road to Quantum Advantage</span></h1>
+	<div>Author: <span property="author"> Antoine Jacquier, Oleksiy Kondratyev, et al</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"> </span></div>
+		<div>Publisher <span property="publisher">Packt Publishing </span></div>
+		<div>Date Published <span property="datePublished">October 31, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">442</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.9</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="21">
+		<h1><span property="name">Python Tricks: A Buffet of Awesome Python Features</span></h1>
+	<div>Author: <span property="author"> Dan Bade</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1775093305</span></div>
+		<div>Publisher <span property="publisher">Dan Bader</span></div>
+		<div>Date Published <span property="datePublished">October 25, 2017</span></div>
+		<div>Number of Pages <span property="numberOfPages">301</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.7</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="22">
+		<h1><span property="name">Think Bayes: Bayesian Statistics in Python (O'reilly)</span></h1>
+	<div>Author: <span property="author"> Allen B. Downe</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1492089469</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">June 8, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">338</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.5</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="23">
+		<h1><span property="name">Monty Python and the Holy Grail (Special Edition)</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage">Unqualified, Japanese (Dolby Digital 2.0 Mono), English (Dolby Digital 5.1), English (Dolby Digital 2.0 Mono)</span></div>
+		<div>ISBN <span property="isbn"></span></div>
+		<div>Publisher <span property="publisher"></span></div>
+		<div>Date Published <span property="datePublished"></span></div>
+		<div>Number of Pages <span property="numberOfPages"></span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.7</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="24">
+		<h1><span property="name">Python Data Science Handbook: Essential Tools for Working with Data</span></h1>
+	<div>Author: <span property="author"> Jake VanderPla</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1098121228</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">January 31, 2023</span></div>
+		<div>Number of Pages <span property="numberOfPages">550</span></div>
+		<div>Average rating on Amazon <span property="contentRating"></span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="25">
+		<h1><span property="name">Data Science for Supply Chain Forecasting</span></h1>
+	<div>Author: <span property="author"> Nicolas Vandepu</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-3110671100</span></div>
+		<div>Publisher <span property="publisher">De Gruyter</span></div>
+		<div>Date Published <span property="datePublished">March 22, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">280</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="26">
+		<h1><span property="name">Python Tools for Scientists: An Introduction to Using Anaconda, JupyterLab, and Python's Scientific Libraries</span></h1>
+	<div>Author: <span property="author"> Lee Vaugha</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"></span></div>
+		<div>Publisher <span property="publisher">No Starch Press </span></div>
+		<div>Date Published <span property="datePublished">January 17, 2023</span></div>
+		<div>Number of Pages <span property="numberOfPages"></span></div>
+		<div>Average rating on Amazon <span property="contentRating"></span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="27">
+		<h1><span property="name">Fluent Python: Clear, Concise, and Effective Programming</span></h1>
+	<div>Author: <span property="author"> Luciano Ramalh</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1492056355</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">May 10, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">1012</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.7</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="28">
+		<h1><span property="name">Python Programming For Beginners: The Ultimate Crash Course to Learn Python Coding Quickly and Easily | Step-by-Step Guide With Hands-on Exercises & Beginners Projects</span></h1>
+	<div>Author: <span property="author"> Leonard J. Ledge</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">979-8354411122</span></div>
+		<div>Publisher <span property="publisher">Independently published </span></div>
+		<div>Date Published <span property="datePublished">September 24, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">88</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.9</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="29">
+		<h1><span property="name">Boa Vs. Python</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage"></span></div>
+		<div>ISBN <span property="isbn"></span></div>
+		<div>Publisher <span property="publisher"></span></div>
+		<div>Date Published <span property="datePublished"></span></div>
+		<div>Number of Pages <span property="numberOfPages"></span></div>
+		<div>Average rating on Amazon <span property="contentRating"></span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="30">
+		<h1><span property="name">Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python</span></h1>
+	<div>Author: <span property="author"> Mike Cohe</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1098120610</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">October 18, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">328</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.1</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="31">
+		<h1><span property="name">Preparing For A Data Interview: Learn Enough Python For A Project Or An Interview</span></h1>
+	<div>Author: <span property="author"> Jonelle Hoo</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">979-8367888348</span></div>
+		<div>Publisher <span property="publisher">Independently published </span></div>
+		<div>Date Published <span property="datePublished">December 10, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">24</span></div>
+		<div>Average rating on Amazon <span property="contentRating"></span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="32">
+		<h1><span property="name">Coding Games in Python (Computer Coding for Kids)</span></h1>
+	<div>Author: <span property="author"> D</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">$13.99 </span></div>
+		<div>Publisher <span property="publisher">DK Children</span></div>
+		<div>Date Published <span property="datePublished">July 3, 2018</span></div>
+		<div>Number of Pages <span property="numberOfPages">224</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.5</span></div>
+		<div>Book Edition <span property="bookEdition"> Illustrated edition </span></div>
+</div>
+<div typeof="Book" resource="33">
+		<h1><span property="name">Python for Everybody: Exploring Data in Python 3</span></h1>
+	<div>Author: <span property="author"> Charles R. Severance, Aimee Andrion, et al</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"></span></div>
+		<div>Publisher <span property="publisher"></span></div>
+		<div>Date Published <span property="datePublished"></span></div>
+		<div>Number of Pages <span property="numberOfPages">387</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="34">
+		<h1><span property="name">Think Python: How to Think Like a Computer Scientist</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1491939369</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">January 26, 2016</span></div>
+		<div>Number of Pages <span property="numberOfPages">289</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="35">
+		<h1><span property="name">Python Programming for Beginners: Python Programming Creak Course to Get Python Coding Well & Quick</span></h1>
+	<div>Author: <span property="author"> Donald P. Wilso</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"></span></div>
+		<div>Publisher <span property="publisher"></span></div>
+		<div>Date Published <span property="datePublished"></span></div>
+		<div>Number of Pages <span property="numberOfPages">100</span></div>
+		<div>Average rating on Amazon <span property="contentRating">5</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="36">
+		<h1><span property="name">Python for Algorithmic Trading: From Idea to Cloud Deployment</span></h1>
+	<div>Author: <span property="author"> Yves Hilpisc</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1492053354</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">December 8, 2020</span></div>
+		<div>Number of Pages <span property="numberOfPages">380</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.3</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="37">
+		<h1><span property="name">Python for Data Science: A Hands-On Introduction</span></h1>
+	<div>Author: <span property="author"> Yuli Vasilie</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1718502208</span></div>
+		<div>Publisher <span property="publisher">No Starch Press </span></div>
+		<div>Date Published <span property="datePublished">August 2, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">240</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="38">
+		<h1><span property="name">Practical Deep Learning: A Python-Based Introduction</span></h1>
+	<div>Author: <span property="author"> Ronald T. Kneuse</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"> </span></div>
+		<div>Publisher <span property="publisher">No Starch Press </span></div>
+		<div>Date Published <span property="datePublished">February 23, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">464</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.7</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="39">
+		<h1><span property="name">Murach's Python for Data Analysis (Training & Reference)</span></h1>
+	<div>Author: <span property="author"> Scott Mcco</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1943872763</span></div>
+		<div>Publisher <span property="publisher">Mike Murach & Associates Inc </span></div>
+		<div>Date Published <span property="datePublished">August 30, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">559</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.4</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="40">
+		<h1><span property="name">Robust Python: Write Clean and Maintainable Code</span></h1>
+	<div>Author: <span property="author"> Patrick Viafor</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1098100667</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">August 3, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">380</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.5</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="41">
+		<h1><span property="name">EXCEL DATA ANALYSIS: THE ULTIMATE PRACTICAL GUIDE TO MASTERING DATA ANALYSIS USING EXCEL DATA & STATISTICAL TABLES, PIVOT TABLES, AND FINANCIAL ANALYSIS TOOLS</span></h1>
+	<div>Author: <span property="author"> JOE WEBINA</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">979-8420836248</span></div>
+		<div>Publisher <span property="publisher">Independently published </span></div>
+		<div>Date Published <span property="datePublished">February 21, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">175</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="42">
+		<h1><span property="name">Learning Spark: Lightning-Fast Data Analytics</span></h1>
+	<div>Author: <span property="author"> Jules Damji, Brooke Wenig, et al</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1492050049</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">August 25, 2020</span></div>
+		<div>Number of Pages <span property="numberOfPages">397</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.7</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="43">
+		<h1><span property="name">Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning</span></h1>
+	<div>Author: <span property="author"> Benjamin Bengfort, Rebecca Bilbro, et al</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1491963043</span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">July 17, 2018</span></div>
+		<div>Number of Pages <span property="numberOfPages">332</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.4</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="44">
+		<h1><span property="name">Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis, data preparation, forecasting, and model evaluation</span></h1>
+	<div>Author: <span property="author"> Tarek A. Atwa</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1801075541</span></div>
+		<div>Publisher <span property="publisher">Packt Publishing </span></div>
+		<div>Date Published <span property="datePublished">June 30, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">630</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.8</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+<div typeof="Book" resource="45">
+		<h1><span property="name">Practical SQL, 2nd Edition: A Beginner's Guide to Storytelling with Data</span></h1>
+	<div>Author: <span property="author"> Anthony DeBarro</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"> </span></div>
+		<div>Publisher <span property="publisher">No Starch Press</span></div>
+		<div>Date Published <span property="datePublished">January 25, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">464</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.8</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="46">
+		<h1><span property="name">Dyadic Data Analysis (Methodology in the Social Sciences)</span></h1>
+	<div>Author: <span property="author"></span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1462546138</span></div>
+		<div>Publisher <span property="publisher">The Guilford Press</span></div>
+		<div>Date Published <span property="datePublished">November 26, 2020</span></div>
+		<div>Number of Pages <span property="numberOfPages">458</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.4</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="47">
+		<h1><span property="name">Exploratory Data Analysis (Classic Version) (Pearson Modern Classic)</span></h1>
+	<div>Author: <span property="author"> John Tuke</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-0134995458</span></div>
+		<div>Publisher <span property="publisher">Pearson</span></div>
+		<div>Date Published <span property="datePublished">April 18, 2019</span></div>
+		<div>Number of Pages <span property="numberOfPages">720</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.9</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="48">
+		<h1><span property="name">Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale</span></h1>
+	<div>Author: <span property="author"> Gwen Shapira, Todd Palino, et al</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn"> </span></div>
+		<div>Publisher <span property="publisher">O'Reilly Media</span></div>
+		<div>Date Published <span property="datePublished">November 30, 2021</span></div>
+		<div>Number of Pages <span property="numberOfPages">488</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.8</span></div>
+		<div>Book Edition <span property="bookEdition"> 2nd edition </span></div>
+</div>
+<div typeof="Book" resource="49">
+		<h1><span property="name">An Introduction to Statistics and Data Analysis Using Stata: From Research Design to Final Report</span></h1>
+	<div>Author: <span property="author"> Lisa Daniels,  and , Nicholas W. Mino</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1506371832</span></div>
+		<div>Publisher <span property="publisher">SAGE Publications, Inc</span></div>
+		<div>Date Published <span property="datePublished">January 29, 2019</span></div>
+		<div>Number of Pages <span property="numberOfPages">392</span></div>
+		<div>Average rating on Amazon <span property="contentRating">4.6</span></div>
+		<div>Book Edition <span property="bookEdition"> 1st edition </span></div>
+</div>
+<div typeof="Book" resource="50">
+		<h1><span property="name">Microsoft 365 Excel: The Only App That Matters: Calculations, Analytics, Modeling, Data Analysis and Dashboard Reporting for the New Era of Dynamic Data Driven Decision Making & Insight</span></h1>
+	<div>Author: <span property="author"> Mike Girvi</span></div>
+		<div>Language: <span property="inLanguage">English</span></div>
+		<div>ISBN <span property="isbn">978-1615470709</span></div>
+		<div>Publisher <span property="publisher">Holy Macro! Books </span></div>
+		<div>Date Published <span property="datePublished">August 1, 2022</span></div>
+		<div>Number of Pages <span property="numberOfPages">824</span></div>
+		<div>Average rating on Amazon <span property="contentRating">5</span></div>
+		<div>Book Edition <span property="bookEdition"></span></div>
+</div>
+</div>
